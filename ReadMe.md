@@ -13,8 +13,10 @@ This repository contains Python code that utilizes Decision Trees to predict foo
 <li>requests (https://requests.readthedocs.io/)</li>
   </ul>
 <h2>Instructions:</h2>
+<strong>gambler.py</strong>: Uses Random Forest<br >
+<strong>correct_score_predictor.py</strong>: Uses Decision Tree <br >
 
-Install required libraries:
+<h3>Install required libraries:</h3>
 
 ```Bash
 pip install pandas scikit-learn requests
